@@ -13,6 +13,8 @@ In addition to this, I didn't quite know how to calibrate the sensor to be as pr
 
 ## Images
 ### Image[1]: The Pump is turned on and pumping water, indicated by the glowing red light on the Relay Trigger
-![IMG_4672](https://github.com/user-attachments/assets/a9aea907-9347-4b6d-8c0a-403328d80563)
+![Pump_ON](https://github.com/user-attachments/assets/0def04e7-c083-4352-9d2d-c6532f466572)
+
 ### Image[2]: After the Moisture sensor has detected an adequate level of water, it shuts off the pump, Indicated by the lack of the glowing red light on the Relay Trigger
-![IMG_4673](https://github.com/user-attachments/assets/88d3561f-736f-42fe-9a61-577cbfd8b228)
+![Pump_OFF](https://github.com/user-attachments/assets/e544af05-148d-4319-aa4c-dc2decd23569)
+
